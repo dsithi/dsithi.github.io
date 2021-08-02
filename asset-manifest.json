@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.a6840ff0.chunk.css",
-    "main.js": "/static/js/main.a78f5921.chunk.js",
-    "main.js.map": "/static/js/main.a78f5921.chunk.js.map",
+    "main.css": "/static/css/main.19f3d3e0.chunk.css",
+    "main.js": "/static/js/main.626369ae.chunk.js",
+    "main.js.map": "/static/js/main.626369ae.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
     "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
     "static/js/2.a431d3ea.chunk.js": "/static/js/2.a431d3ea.chunk.js",
     "static/js/2.a431d3ea.chunk.js.map": "/static/js/2.a431d3ea.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.a6840ff0.chunk.css.map": "/static/css/main.a6840ff0.chunk.css.map",
+    "static/css/main.19f3d3e0.chunk.css.map": "/static/css/main.19f3d3e0.chunk.css.map",
     "static/js/2.a431d3ea.chunk.js.LICENSE.txt": "/static/js/2.a431d3ea.chunk.js.LICENSE.txt",
+    "static/media/CocktailList.4757a385.gif": "/static/media/CocktailList.4757a385.gif",
     "static/media/DiscordBot_250x150.0a09912a.png": "/static/media/DiscordBot_250x150.0a09912a.png",
-    "static/media/MatchCards_250x150.8f3014a1.png": "/static/media/MatchCards_250x150.8f3014a1.png"
+    "static/media/Matchcards.df1ce0dd.gif": "/static/media/Matchcards.df1ce0dd.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.5ebc510a.js",
     "static/js/2.a431d3ea.chunk.js",
-    "static/css/main.a6840ff0.chunk.css",
-    "static/js/main.a78f5921.chunk.js"
+    "static/css/main.19f3d3e0.chunk.css",
+    "static/js/main.626369ae.chunk.js"
   ]
 }
