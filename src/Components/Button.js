@@ -16,7 +16,7 @@ const Button = ({ data }) => {
                     </div> 
                     :
                     <button className="button" onClick={() => window.open(data.link)}>
-                        Try
+                        Repo
                     </button>
             }
 

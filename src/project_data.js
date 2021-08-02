@@ -1,5 +1,7 @@
-import MatchCards from './MatchCards_250x150.png';
+import MatchCards from './Matchcards.gif';
 import EconomyBot from './DiscordBot_250x150.png';
+import CocktailList from './CocktailList.gif';
+
 let data = [
     {
         id: 1,
@@ -11,6 +13,14 @@ let data = [
     },
     {
         id: 2,
+        img: CocktailList,
+        name: "Cocktail List",
+        desc: "React web application that fetches from cocktailDB and displays random cocktails, search/filter results, and cocktail information pages. Pagination is used for large results in filter component.",
+        link: "https://cocktail-list1.herokuapp.com/",
+        repo: "https://github.com/dsithi/cocktail-list"
+    },
+    {
+        id: 3,
         img: EconomyBot,
         name: "Economy Bot",
         desc: "A discord.js economy bot based on collecting various character cards. The bot waits for commands to be received by users and sends various messages depending on which command it is. MongoDB is used to store user data.",
