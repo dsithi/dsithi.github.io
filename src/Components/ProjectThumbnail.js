@@ -4,7 +4,7 @@ import Button from './Button';
 const ProjectThumbnail = ({ data }) => {
     return (
         <div className="Project-Thumbnail">
-            <img className="thumbnail" src={data.img} />
+            <img className="thumbnail" src={data.img} alt={data.desc} />
             <div className="information">
                 <h1 className="title">{data.name}</h1>
                 <p className="desc">{data.desc}</p>

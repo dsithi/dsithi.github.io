@@ -37,6 +37,7 @@
 .Projects {
   border: 1px solid transparent;
   border-radius: 2px solid;
+  padding-top: 35px;
   width: 90%;
   min-width: 480px;
   max-width: 1000px;
